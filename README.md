@@ -1,1 +1,24 @@
-# bot-hijacker
+# Bot Hijacker
+# <b> Bot Hijacker is a Discord bot utility NodeJS based application that allows you to token-login into a bot or an user. Also it's an open-source application so feel free to contribute to this project. <b> 
+
+
+
+
+ This is the first relase and im still working on it, the error handling may be not complete. If you encounter any error please report that to me so i can work on it.
+
+ List of all the commands:
+- message send - send a specific message in a specific guild channel
+- permission - Verify the bot privilege in a specific guild
+- message flood - spam a specific message in a specific guild channel
+- guilds list - list all guilds and guild id the bot is in
+- create invite - create an invite link to a specific guild
+- op - only work if the bot has admin privilege, give admin privilege to a specific user
+- deop - only work if the bot has admin privilege, remove admin privilege to a specific user
+- message listener - log to your console all messages that begin send over a specific guild channel
+- kick - kick a specific user from a specific guild
+- ban - ban a specific user from a specific guild
+- unban - unban a specific user from a specific guild
+
+
+<b>Downloads:<b>
+<strong> Windows: bothijacker.exe <strong>
