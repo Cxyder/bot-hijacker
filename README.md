@@ -6,7 +6,7 @@
 
  This is the first relase and im still working on it, the error handling may be not complete. If you encounter any error please report that to me so i can work on it.
 
- List of all the commands:
+# Commands:
 - message send - send a specific message in a specific guild channel
 - permission - Verify the bot privilege in a specific guild
 - message flood - spam a specific message in a specific guild channel
@@ -20,5 +20,5 @@
 - unban - unban a specific user from a specific guild
 
 
-<b>Downloads:<b>
+# <b>Downloads:<b>
 <strong> Windows: bothijacker.exe <strong>
