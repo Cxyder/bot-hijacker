@@ -21,6 +21,7 @@
 
 
 # <b>Downloads:<b>
-<strong> Windows: [bot-hijacker.exe](https://github.com/Cxyder/bot-hijacker/releases/download/v1/bot-hijacker.exe)<strong>\n
+<strong> Windows: [bot-hijacker.exe](https://github.com/Cxyder/bot-hijacker/releases/download/v1/bot-hijacker.exe)<strong>
+ 
 <strong>Linux and MacOS version are still not avaible, but dont worry, you can compile it by yourself using the source code!<strong>
 
