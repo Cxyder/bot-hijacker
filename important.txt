@@ -1,0 +1,10 @@
+--------------------------------------------------------------------------------------------------------
+You can run the application with the "start.cmd"
+
+Please DON'T edit any folder name inside the "BotHijacker" one!
+
+If you encounter any error please report at my GitHub
+
+Enjoy!
+
+---------------------------------------------------------------------------------------------------------
