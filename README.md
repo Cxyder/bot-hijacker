@@ -1,4 +1,4 @@
-# Bot Hijacker
+# Bot Hijacker V1
 # <b> Bot Hijacker is a Discord bot utility NodeJS based application that allows you to token-login into a bot or an user. Also it's an open-source application so feel free to contribute to this project. <b> 
 
 
