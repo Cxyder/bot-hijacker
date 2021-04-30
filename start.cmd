@@ -1,8 +1,8 @@
 @echo off
-echo NodeJS Self-Testing...
+echo Running NodeJS Self-Test
 call npm -v> NUL
 call node -v> NUL
-if %ERRORLEVEL% == 9009 goto err
+if %ERRORLEVEL% == 1 goto err
 goto start
 
 
@@ -16,7 +16,8 @@ timeout /t 2 /nobreak > NUL
 call nodejsreset.cmd
 
 :start
-echo NodeJS Self-Test ended, Launching app...
+echo NodeJS Self-Test successfully
+echo Searching update for Discord.js...
 cd Source
-call npm install discord.js > nul
-call node index
+call npm --quiet install discord.js >nul 2>nul
+call node index.js
