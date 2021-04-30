@@ -5,6 +5,8 @@ Please DON'T edit any folder name inside the "BotHijacker" one!
 
 If you encounter any error please report at my GitHub
 
+If you encountering NodeJS based errors on the app, please navigate to Source>Dependencies and run "nodejsreset.cmd"
+
 Enjoy!
 
 ---------------------------------------------------------------------------------------------------------
