@@ -1,3 +1,5 @@
+<a href="https://codeclimate.com/github/Cxyder/bot-hijacker/maintainability"><img src="https://api.codeclimate.com/v1/badges/ac72432a8af1692dc595/maintainability" /></a>
+
 # Bot Hijacker V1
 # <b> Bot Hijacker is a Discord bot utility NodeJS based application that allows you to token-login into a bot or an user. Also it's an open-source application so feel free to contribute to this project. <b> 
 
