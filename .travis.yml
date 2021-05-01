@@ -1,7 +1,8 @@
 language: node_js
-node_js: node
+node_js:
+  - 7
 jobs:
   include:
   - name: "Index.js build"
     before_script: - cd Source && npm i discord.js
-    script: index.js
+    script: index
