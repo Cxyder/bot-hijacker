@@ -1,3 +1,4 @@
+<a href="https://github.com/Cxyder/bot-hijacker/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Cxyder/bot-hijacker"></a>
 <a href="https://codeclimate.com/github/Cxyder/bot-hijacker/maintainability"><img src="https://api.codeclimate.com/v1/badges/ac72432a8af1692dc595/maintainability" /></a>
 
 # Bot Hijacker V1
