@@ -1,0 +1,8 @@
+language: node_js
+node_js: node
+jobs:
+  include:
+  - name: "Index.js build"
+    env: TEST_SUITE=suite_3_5_unit
+    before_script: - cd Source && npm i discord.js
+    script: index.js
